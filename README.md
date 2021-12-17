@@ -1,6 +1,11 @@
 # Time-Series-Datasets-Analysis
 
-Time series is a sequence of observations recorded at regular time intervals. This guide walks you through the process of analyzing the characteristics of a given time series in python.   Time Series Analysis in Python – A Comprehensive Guide. Photo by Daniel Ferrandiz.
+Time series is a sequence of observations recorded at regular time intervals. This guide walks you through the process of analyzing the characteristics of a given time series in python.   Time Series Analysis in Python 
+
+![alt text](https://images.unsplash.com/photo-1548198073-328401ddd50a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&w=1000&q=80)
+Photo by Daniel Ferrandiz.
+
+
 Contents
 - What is a Time Series?
 - How to import Time Series in Python?
